@@ -1,16 +1,16 @@
 # MEDERP_Backend
 
-MEDERP Backend API Project
+<strong>MEDERP Backend API Project</strong>
 
-ABOUT
+<strong>ABOUT</strong>
 
 This project is a backend solution developed for enterprise resource planning (ERP). It is built using .NET and designed to meet various business needs.
 
-FEATURES
+<strong>FEATURES</strong>
 
 - Pricing: Displaying the relevant personnel of the services offered.
 - Customer Tracking: Tracking of customers who have purchased the services offered.
-- Reporting: Services offered;
+- Reporting: Services offered;<br>
               - when the service was purchased, <br>
               - When the service will be provided, <br>
               - When the customer purchasing the service will arrive and depart, <br>

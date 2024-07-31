@@ -11,7 +11,7 @@ FEATURES
 - Pricing: Displaying the relevant personnel of the services offered.
 - Customer Tracking: Tracking of customers who have purchased the services offered.
 - Reporting: Services offered;
-              - when the service was purchased,
+            <br></br>  - when the service was purchased, 
               - When the service will be provided,
               - When the customer purchasing the service will arrive and depart,
               - Customer arrival vehicle,

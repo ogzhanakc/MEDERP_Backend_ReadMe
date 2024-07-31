@@ -5,7 +5,7 @@
 This project is a backend solution developed for enterprise resource planning (ERP). It is built using .NET and designed to meet various business needs.
 
 ## Features
-- **Permission: Authorisation process of ERP users.
+- **Permission**: Authorisation process of ERP users.
 - **Pricing**: Displaying the relevant personnel of the services offered.
 - **Customer Tracking**: Tracking of customers who have purchased the services offered.
 - **Reporting**: 
